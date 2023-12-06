@@ -116,26 +116,3 @@ Published on LeanPub 2022: [https://leanpub.com/goatsbook/](https://leanpub.com/
 111. Situational Aware Test Plan, 2021, 
 https://jlottosen.wordpress.com/2021/09/16/264-create-situational-aware-test-plans/, CC BY-SA 4.0 Jesper Ottosen, 2021 based on Wardley Map Characteristics
 112. Taking My Own Medicine, 2022, https://jlottosen.wordpress.com/2022/09/15/taking-my-own-medicine/
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-26.  
