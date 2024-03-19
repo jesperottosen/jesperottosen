@@ -1,11 +1,13 @@
 # A communications Readme 👋
+The purpose of this document is to summarize some of the values and principles I try to adhere to.
 Everyone is different and has different things that make them tick different things that annoy them, and different communication preferences. I want to give anyone who needs to know, an insight into how I work best and how to get the best out of me when you need me to do something. 
 
 ## About me
 - I run on **Intuition and Reflection**. I prefer [Collaboration and Coalition](https://qualityeng.substack.com/p/scales-of-collaboration?) over Command and Control.
 - My drive is for **completion** (not perfection) to the extent of the situation.
-- I often pause to think, sometimes it's a _latency_ issue. I hate being bulldozed.
+- I often pause to think, sometimes it's a _latency_ issue. I hate being bulldozed, give me time. 
 - I generally trust people but have also been "burnt" enough to have scars with regards to trust.
+- I prefer growing ideas, solutions, and people over maintaining and tinkering 
 
 ## What people say about me
 - "Elevate the voices of those around you"
@@ -26,7 +28,7 @@ Everyone is different and has different things that make them tick different thi
 - "Dear" is a reserved word for a few people only; my emails start with "Hi <name>"
 - My email content might be a bit brief and to the point. 
 
-I wear a "hidden disability" sunflower key hanger on my jacket, sometimes my autism pops up. Usually, it's not that visible - but it has been there [all along](https://jlottosen.wordpress.com/2023/04/04/we-have-been-here-all-along/). 
+🌻: I wear a "hidden disability" sunflower key hanger on my jacket, and sometimes my autism pops up. Usually, it's not that visible - but it has been there [all along](https://jlottosen.wordpress.com/2023/04/04/we-have-been-here-all-along/). 
 
 ## Icebreakers
 - Talk to me about my LeanPub books: "**Goal-Aligned Test Strategies**", "**Leading Testing Activities**", and "**Staff Level Testing Roles**".
@@ -36,3 +38,4 @@ I wear a "hidden disability" sunflower key hanger on my jacket, sometimes my aut
 ## With Inspiration from:
 - Neil Studd: (https://github.com/neilstudd/neilstudd/blob/main/CommunicationsReadme.md)
 - Simon Prior: (https://leadtestinclude.com/2021/07/05/introducing-the-communications-readme/)
+- Rian van der Merwe (https://github.com/rianvdm/manager-README)
