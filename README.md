@@ -11,7 +11,7 @@ Everyone is different and has different things that make them tick different thi
 - I thrive with "**how do we solve this**" challenges, using creative thinking and imagination.
 - I can be both extrovert and introvert, my strongest side is for thinking and reflecting.
 - I generally trust people but have also been "burnt" enough to have scars with regards to trust.
-- 
+  
 ## What people say about me
 - "Elevate the voices of those around you"
 - "Allow everyone to show initiative and be their best self"
@@ -28,7 +28,7 @@ Everyone is different and has different things that make them tick different thi
 
 ## Quirks
 - I have a blind spot in creating Minutes of Meetings of my many meetings. Especially if I'm the meeting facilitator, which I often am. Pr. default I assume that people take note of their action items. It helps to have a virtual board to track progress.
-- Absence of formality in work items is often on purpose. I try to achieve the least amount of formality needed, and would rather do with less. The easiest thing is to add more formality, that doesn't give a healthy relationship.
+- Absence of formality in work items is often on purpose. I try to achieve the least amount of formality needed, and would rather do with less. More formality is the easiest thing to add but is usually counterproductive to a healthy collaboration and effective working method.
 - While I'm in Copenhagen about once a month, I rarely take public transportation when in new places. Too many impressions make it hard for me to acquire consistency. I would rather take a taxi.
 - Too many people talking at the same time in the same space drains me (audio sensitivity)
 - "Dear" is a reserved word for a few people only; my emails start with "Hi <name>"
