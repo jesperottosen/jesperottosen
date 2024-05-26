@@ -107,7 +107,7 @@ APR 16, 2024 SEASON 2 EPISODE 17, https://www.buzzsprout.com/2037134/14847666-te
 103. Examples for formal documents: Test Strategy, Test Plan, Test Report
 104. Create a Master Test Plan, Maaret Pyhäjärvi 2024, https://www.linkedin.com/posts/maaret_create-a-master-test-plan-i-have-been-activity-7194258400040435714-exEH/?
 105. _The Information, the Opportunity, and the Mindset_, 2024 https://leading-testing-activities.ghost.io/information-opportunity/
-106. Taking My Own Medicine, 2022, https://jlottosen.wordpress.com/2022/09/15/taking-my-own-medicine/
+106. _Taking My Own Medicine_, 2022, https://jlottosen.wordpress.com/2022/09/15/taking-my-own-medicine/
 
 
 
