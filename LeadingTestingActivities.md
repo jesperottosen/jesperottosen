@@ -41,7 +41,8 @@ Published on LeanPub June 11, 2024, https://leanpub.com/ltabook
 38. Leading Test Teams When You’re Not A Manager, Nicola Lindgren, 2021, https://www.ministryoftesting.com/articles/3fcf879d?s_id=15770297
 39. How I became a Tech Lead at Google is simpler than you think, Irina Stanescu, 2023, https://www.linkedin.com/feed/update/urn:li:activity:7128388025193037825/
 40. Being Glue, Tanya Reilly 2019, https://noidea.dog/glue
-41. Quality Bits podcast, Team Glue & Why QA is a Tech Leadership Role with Vernon Richards, https://www.buzzsprout.com/2037134/14847666-team-glue-why-qa-is-a-tech-leadership-role-with-vernon-richards, APR 16, 2024 SEASON 2 EPISODE 17, https://www.buzzsprout.com/2037134?
+41. Quality Bits podcast, Team Glue & Why QA is a Tech Leadership Role with Vernon Richards, 
+APR 16, 2024 SEASON 2 EPISODE 17, https://www.buzzsprout.com/2037134/14847666-team-glue-why-qa-is-a-tech-leadership-role-with-vernon-richards
 42. Rob Bowley, 2024, https://www.linkedin.com/feed/update/urn:li:activity:7132997997520400385/?
 43. Testing Peers 87, TESTING AS A CAREER – IS IT WORTH IT?, 2023, https://testingpeers.com/?p=7265
 44. Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law, https://en.wikipedia.org/wiki/Hofstadter%27s_law
