@@ -5,11 +5,13 @@ Everyone is different and has different things that make them tick different thi
 ## About me
 - I run on **Intuition and Reflection**. I prefer [Collaboration and Coalition](https://qualityeng.substack.com/p/scales-of-collaboration?) over Command and Control.
 - My drive is for **completion** (not perfection) to the extent of the situation.
-- I often pause to think, sometimes it's a _latency_ issue. I hate being bulldozed, give me time.
+- I often pause to think, sometimes it's a _latency_ issue. I hate being bulldozed, give me time. 🌻
+- Give me space to find myself when there are many new things or too many unknowns in a physical setting 🌻
 - I often spot and seek to learn about **higher-level patterns** and trends in projects and organizations 
 - I prefer growing ideas, solutions, and people over maintaining and tinkering.
 - I thrive with "**how do we solve this**" challenges, using creative thinking and imagination.
 - I can be both extrovert and introvert, my strongest side is for thinking and reflecting.
+- I am drained if to many things happens at once 🌻
 - I generally trust people but have also been "burnt" enough to have scars with regards to trust.
   
 ## What people say about me
