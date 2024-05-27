@@ -31,11 +31,11 @@ Everyone is different and has different things that make them tick different thi
 ## Quirks
 - I have a blind spot in creating Minutes of Meetings of my many meetings. Especially if I'm the meeting facilitator, which I often am. Pr. default I assume that people take note of their action items. It helps to have a virtual board to track progress.
 - Absence of formality in work items is often on purpose. I try to achieve the least amount of formality needed, and would rather do with less. More formality is the easiest thing to add but is usually counterproductive to a healthy collaboration and effective working method.
-- While I'm in Copenhagen about once a month, I rarely take public transportation when in new places. Too many impressions make it hard for me to acquire consistency. I would rather take a taxi.
-- Too many people talking at the same time in the same space drains me (audio sensitivity)
-- "Dear" is a reserved word for a few people only; my emails start with "Hi <name>"
-- My email content might be a bit brief and to the point.
-- While I do the evening cooking at home, I prefer "meal services" where everything is provided and a step-by-step recipe is available. My household can save money, hassle, and food waste on these as far as we can tell.
+- While I'm in Copenhagen about once a month, I rarely take public transportation when in new places. Too many impressions make it hard for me to acquire consistency. I would rather take a taxi. 🌻
+- Too many people talking at the same time in the same space drains me (audio sensitivity) 🌻
+- "Dear" is a reserved word for a few people only; my emails start with "Hi <name>" 
+- My email content might be a bit brief and to the point. 🌻
+- While I do the evening cooking at home, I prefer "meal services" where everything is provided and a step-by-step recipe is available. My household can save money, hassle, and food waste on these as far as we can tell. 🌻
 
 🌻: I wear a "hidden disability" sunflower key hanger on my jacket, and sometimes my autism pops up. Usually, it's not that visible - but it has been there [all along](https://jlottosen.wordpress.com/2023/04/04/we-have-been-here-all-along/). 
 
