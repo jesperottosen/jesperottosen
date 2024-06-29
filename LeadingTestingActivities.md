@@ -1,6 +1,9 @@
 # Leading Testing Activities
 **[ A Guidebook for New Leaders of Testing ]**
+
 Published on LeanPub June 11, 2024, https://leanpub.com/ltabook
+Published on Amazon Print On Demand: June 10, 2024: https://www.amazon.com/dp/B0D6682MRS?
+
 1. All references are located here
 2. Andrew Neel, 2016, https://unsplash.com/photos/1-29wyvvLJA
 3. “Goal-Aligned Test Strategies”, 2022, https://leanpub.com/goatsbook/
@@ -11,7 +14,7 @@ Published on LeanPub June 11, 2024, https://leanpub.com/ltabook
 8. _Why Do We Fall, Master Bruce_? 2022, https://jlottosen.wordpress.com/2022/04/29/why-do-we-fall-master-bruce/
 9. “Leadership and Management”, Psychological Safety 2023, https://psychsafety.co.uk/leadership-vs-management/
 10. _In Charge of Testing_, 2019, https://jlottosen.wordpress.com/2019/07/21/in-charge-of-testing/
-11.  Keith Klain, 2024, Leadership in Testing - WhatReally matters,  https://www.linkedin.com/posts/keithklain_leadership-testing-management-activity-7173966033119006721-0BTr/?
+11.  Keith Klain, 2024, Leadership in Testing - What really matters,  https://www.linkedin.com/posts/keithklain_leadership-testing-management-activity-7173966033119006721-0BTr/?
 12.   “The 6 Goleman Leadership Styles: Which Is Yours?”, Personio 2023, https://www.personio.com/hr-lexicon/six-goleman-leadership-styles/
 13.   “What’s a testing manager”, Chris Kenst 2023, https://www.kenst.com/whats-a-testing-manager-2/
 14.   “QA reporting to development managers”, Ministry of Testing Club 2024, https://club.ministryoftesting.com/t/qa-reporting-to-development-managers/73926
@@ -34,8 +37,8 @@ Published on LeanPub June 11, 2024, https://leanpub.com/ltabook
 31. Why Most RTO Mandates Are Likely To Be Overturned By 2028, Alexander Puutio 2024, https://www.forbes.com/sites/alexanderpuutio/2024/04/25/why-most-ceos-are-likely-to-overturn-their-rto-mandates-by-2028/
 32. Accelerate, Forsgren et.al. 2018, The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations, https://itrevolution.com/product/accelerate/
 33. 24 Key Capabilities to Drive Improvement in Software Delivery, IT Revolution, 2020, https://itrevolution.com/articles/24-key-capabilities-to-drive-improvement-in-software-delivery/
-34. How to Coach Subject Matter Experts to Do Testing, 2020, Subscription required, , https://www.ministryoftesting.com/testbash-sessions/how-to-coach-subject-matter-experts-to-do-testing-jesper-ottosen
-35. We Have Been Here All Along, 2023, https://jlottosen.wordpress.com/2023/04/04/we-have-been-here-all-along/
+34. How to Coach Subject Matter Experts to Do Testing, 2020, Subscription required, https://www.ministryoftesting.com/testbash-sessions/how-to-coach-subject-matter-experts-to-do-testing-jesper-ottosen
+35. _We Have Been Here All Along_, 2023, https://jlottosen.wordpress.com/2023/04/04/we-have-been-here-all-along/
 36. From Astrid Lindgren's stories about Pippi Longstocking,  https://www.goodreads.com/quotes/6773397-i-have-never-tried-that-before-so-i-think-i
 37. Leading Test Teams When You’re Not A Manager, Nicola Lindgren, 2021, https://www.ministryoftesting.com/articles/3fcf879d?s_id=15770297
 38. Leading Test Teams When You’re Not A Manager, Nicola Lindgren, 2021, https://www.ministryoftesting.com/articles/3fcf879d?s_id=15770297
@@ -48,20 +51,20 @@ APR 16, 2024 SEASON 2 EPISODE 17, https://www.buzzsprout.com/2037134/14847666-te
 44. Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law, https://en.wikipedia.org/wiki/Hofstadter%27s_law
 45. Exact Instructions Challenge – THIS is why my kids hate me. | Josh Darnit 2017, https://www.youtube.com/watch?v=cDA3_5982h8
 46. _What If You Are Not Around?_, 2024, https://jlottosen.wordpress.com/2024/04/15/what-if-you-are-not-around
-47.  New Fields of Testing Activities, 2023, https://jlottosen.wordpress.com/2023/09/06/new-fields-of-testing-activities
+47.  _New Fields of Testing Activities_, 2023, https://jlottosen.wordpress.com/2023/09/06/new-fields-of-testing-activities
 48. Using Vocabulary to Make Things Special, Maaret Pyhäjärvi 2024, https://visible-quality.blogspot.com/2024/05/using-vocabulary-to-make-things-special.html
 49. _297 – Stop Hoarding, Start Growing Others_, 2023, https://jlottosen.wordpress.com/2023/09/11/297-stop-hoarding-start-growing-others/
 50. I Don’t Wanna, Alan Page, 2024, https://angryweasel.substack.com/p/i-dont-wanna
 51. Wiring the Winning Organization, by Gene Kim and Steven Spear 2023, https://itrevolution.com/product/wiring-the-winning-organization/
 52. Team Topologies: Organizing Business and Technology Teams for Fast Flow by Matthew Skelton, Manuel Pais, 2019, https://itrevolution.com/product/team-topologies/
-53. Where Does Testers Fit In? 2020, https://jlottosen.wordpress.com/2020/06/10/where-does-testers-fit-in/
+53. _Where Does Testers Fit In?_ 2020, https://jlottosen.wordpress.com/2020/06/10/where-does-testers-fit-in/
 54. Team Topologies, key concepts, https://teamtopologies.com/key-concepts
 55. _Less Test Managers, More Test Coaches_, 2017, https://jlottosen.wordpress.com/2017/08/31/less-test-managers-more-test-coaches/
 56. Project Management versus Programme Management versus Task Management - know the difference, Tim Clements 2023,  https://www.linkedin.com/feed/update/urn:li:activity:7097834051230687232/
 57. _Something about leadership_, 2021, https://jlottosen.wordpress.com/2021/02/15/250/
 58. _#270 – But what if we can’t release often?_ https://jlottosen.wordpress.com/2021/12/08/270-but-what-if-we-cant-release-often/
 59. _#265 – Using MTTR to Understand When to Test, 2021_, https://jlottosen.wordpress.com/2021/10/27/265-using-mttr-to-understand-when-to-test/
-60. How Automation Affects the Business_, 2019, https://jlottosen.wordpress.com/2019/09/21/automation-affects-business/
+60. _How Automation Affects the Business_, 2019, https://jlottosen.wordpress.com/2019/09/21/automation-affects-business/
 61. Maybe you're a Tester, Scott Logic, 2023, https://blog.scottlogic.com/2023/11/21/maybe-you're-a-tester.html
 62. _Software testing is only dead, if it stands still_, 2012, https://jlottosen.wordpress.com/2012/01/23/92/
 63. You're a quality champion, not a bug snitch, Katja Obring, 2024, https://www.linkedin.com/feed/update/urn:li:activity:7165247465334493184/
@@ -104,7 +107,7 @@ APR 16, 2024 SEASON 2 EPISODE 17, https://www.buzzsprout.com/2037134/14847666-te
 100. _Closing the Gaps_, 2019, https://jlottosen.wordpress.com/2019/10/22/closing-the-gaps/
 101. OODA loop, https://www.techtarget.com/searchcio/definition/OODA-loop
 102. Deming PDCA, https://en.wikipedia.org/wiki/PDCA
-103. Examples for formal documents: Test Strategy, Test Plan, Test Report
+103. Examples of formal documents: Test Strategy, Test Plan, Test Report
 104. Create a Master Test Plan, Maaret Pyhäjärvi 2024, https://www.linkedin.com/posts/maaret_create-a-master-test-plan-i-have-been-activity-7194258400040435714-exEH/?
 105. _The Information, the Opportunity, and the Mindset_, 2024 https://leading-testing-activities.ghost.io/information-opportunity/
 106. _Taking My Own Medicine_, 2022, https://jlottosen.wordpress.com/2022/09/15/taking-my-own-medicine/
