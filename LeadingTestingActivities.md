@@ -2,6 +2,7 @@
 **[ A Guidebook for New Leaders of Testing ]**
 
 Published on LeanPub June 11, 2024, https://leanpub.com/ltabook
+
 Published on Amazon Print On Demand: June 10, 2024: https://www.amazon.com/dp/B0D6682MRS?
 
 1. All references are located here
