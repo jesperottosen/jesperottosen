@@ -2,7 +2,9 @@
 
 **Using Wardley Maps to visualize test strategies and align the test strategies with business goals.**
 
-Published on LeanPub 2022: [https://leanpub.com/goatsbook/](https://leanpub.com/goatsbook/)
+- Published on LeanPub 2022: [https://leanpub.com/goatsbook/](https://leanpub.com/goatsbook/)
+- Published on Amazon Print on Demand October 2022: https://www.amazon.com/dp/B0D4BYW6WM?
+
 1. here may be dragons, John Cutler, 2021, https://twitter.com/johncutlefish/status/1445068268541075456/
 2. We are making it unnecessary hard on ourselves, 2021, https://jlottosen.wordpress.com/2021/06/07/stop-writing-overdone-test-plans
 3. Anne-Marie Charrett, “A Test Strategy delivers similar results. Strategically thinking about what to test”, 2022, https://twitter.com/charrett/status/1543419664952205313
