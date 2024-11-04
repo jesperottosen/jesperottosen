@@ -35,6 +35,7 @@ If we need to chat about the topic, book me in my calendar—feel free to find a
 - Too many people talking at the same time in the same space drains me (audio sensitivity) 🌻
 - "Dear" is a reserved word for a few people only; my emails start with "Hi <name>" 
 - My email content might be a bit brief and to the point. 🌻
+- When I'm worn out or under pressure, I can have trouble maintaining eye contact. It's not on purpose 🌻
 - While I do the evening cooking at home, I prefer "meal services" where everything is provided and a step-by-step recipe is available. My household can save money, hassle, and food waste on these, as far as we can tell. 🌻
 - When things get really bad, I probably have issues [displaying the expected emotions](https://www.linkedin.com/pulse/what-say-when-you-dont-know-wesley-faulkner-7qc4e/?) 🌻
 
