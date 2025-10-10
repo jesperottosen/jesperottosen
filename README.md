@@ -15,6 +15,7 @@ Everyone is different and has different things that make them tick, things that 
 - I generally trust people but have also been "burnt" enough to have scars.
   
 ## What people say about me
+- A challenge is just a doorway to an unknown opportunity
 - "Elevate the voices of those around you"
 - "Allow everyone to show initiative and be their best self."
   
